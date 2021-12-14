@@ -1,4 +1,4 @@
-B is this change
+B is this change for showing git stash confilct
 sd
 hello
 myfile
